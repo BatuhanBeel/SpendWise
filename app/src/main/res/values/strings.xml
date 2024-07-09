@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">SpendWise</string>
+    <string name="see_all">SEE ALL</string>
+    <string name="food">Food</string>
+    <string name="shopping">Shopping</string>
+    <string name="entertainment">Entertainment</string>
+    <string name="health">Health</string>
+    <string name="travel">Travel</string>
+    <string name="other">Other</string>
+    <string name="total">Total</string>
+    <string name="overview">Overview</string>
+    <string name="all_transactions">All Transactions</string>
+    <string name="balance">Balance:</string>
+    <string name="expenses">Expenses:</string>
+    <string name="remaining">Remaining:</string>
+    <string name="change_balance">Change balance</string>
+    <string name="add">Add</string>
+    <string name="edit">Edit</string>
+    <string name="name">Name:</string>
+    <string name="amount">Amount:</string>
+    <string name="due">Due:</string>
+    <string name="category">Category:</string>
+    <string name="spendings">Spendings:</string>
+    <string name="reset_all">Reset all</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="error">Error</string>
+    <string name="delete_all">Delete All</string>
+    <string name="delete">Delete</string>
+</resources>
